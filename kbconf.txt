@@ -1,0 +1,1 @@
+{"serveripaddress":"mobi.kabyarena.com","serveripaddressws":"ws://mobi.kabyarena.com:18090","myip":"mobi.kabyarena.com","newsip":"mobi.kabyarena.com"}
